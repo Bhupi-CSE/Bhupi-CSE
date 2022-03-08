@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhupi-CSE
-- 👀 I’m interested in Test Automation, .Net Technology, Data Structures/Algorithms, JavaScript, WebSite designing
-- 🌱 I’m currently learning DSA, website designing and personal project
-- 💞️ I’m looking to collaborate on DSA
+- 👀 I’m interested in Test Automation,Data Structures/Algorithms, JavaScript, Object Oriented Programming, Java and Python languages
+- 🌱 I’m currently learning DSA, website designing and doig personal project
+- 💞️ I’m looking to collaborate on DSA portfolio websites and projects related to solving daily life problems
 - 📫 How to reach me  -- bhupinderkumarCS@gmail.com
 
 <!---
